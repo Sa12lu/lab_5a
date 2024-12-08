@@ -1,20 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>lab5a_q2</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 50%;
-        }
-        table, th, td {
-            border: 1px solid black;
-        }
-        th, td {
-            padding: 8px;
-            text-align: left;
-        }
-    </style>
+    <title>lab 5a Q2</title>
 </head>
 <body>
     <?php
@@ -36,7 +23,7 @@
         ]
     ];
     ?>
-    <table>
+    <table border="1">
         <thead>
             <tr>
                 <th>Name</th>
